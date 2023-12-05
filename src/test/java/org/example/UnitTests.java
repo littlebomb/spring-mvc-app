@@ -1,3 +1,5 @@
+package org.example;
+
 import org.example.models.Product;
 import org.example.repositories.ProductRepository;
 import org.example.services.ProductService;
